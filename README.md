@@ -1,5 +1,7 @@
 # Calmify App - Kode With Klossy
 A mobile application designed to support mental wellness and provide stress-relief tools for users.
+## Demo Video 
+https://drive.google.com/file/d/1jY9V5q8oQnvRrWyL1nqUnHjy8--nNh_F/view?usp=sharing 
 ## Features
 * Visual Breathing Exercise: A guided timer to help users pace their breathing and manage stress
 * Inspirational Quotes: Dynamic quote generation to promote mindfulness and positivity
